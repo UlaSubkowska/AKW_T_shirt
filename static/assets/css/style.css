@@ -1,0 +1,33 @@
+.content{
+margin-top:100px;
+}
+.votes img{
+width:100%;
+height:300px;
+}
+.main-page{
+background:url("../img/Nanda.jpg") no-repeat ;
+background-size: cover;
+height: 100vh;
+}
+
+.link-votes{
+margin-top:50vh
+}
+.results img{
+width:100px;
+height:100px;
+}
+
+.results .row{
+margin-top: 20px;
+}
+
+.results .progress{
+margin-top: 40px;
+}
+
+.winner{
+width:400px;
+height:400px;
+}
